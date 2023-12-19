@@ -3,7 +3,7 @@
 > [!NOTE]
 > Proyect under continuous development
 
-## Functions
+## Features
 
 - [ ] MongoDB microservice
 > [!IMPORTANT]
@@ -12,3 +12,6 @@
 - [ ] MQTT microservice
 
 - [ ] Logger service
+
+## Author
+- [Aarón Medina](https://github.com/Aaron-MedVil)
